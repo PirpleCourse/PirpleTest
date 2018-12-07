@@ -30,4 +30,4 @@ describe('Basic Mocha String Test', function () {
 
 #### Result:
 
-
+<img width="539" alt="screen shot 2018-12-07 at 12 02 28 pm" src="https://user-images.githubusercontent.com/18662248/49641250-43e46200-fa18-11e8-9572-7875b9164d9a.png">
